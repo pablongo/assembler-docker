@@ -13,6 +13,7 @@
    7. [Contextualization of the application](#contextualization-of-the-application)
    8. [Deploying Frontend](#deploying-frontend)
    9. [Deploying Backend and Database](#deploying-backend-and-database)
+   10. [Adittional Resources](#adittional-resources)
 
 2. [Prerequisites](#prerequisites)
 
@@ -399,3 +400,9 @@ docker-compose up
 ```
 
 And now we are ready to fully use hour app. We need to have the frontend running and the backend running.
+
+## Adittional Resources
+
+[Docker tutorial For Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=TechWorldwithNana)
+[Docker tutorial Español](https://www.youtube.com/watch?v=CV_Uf3Dq-EU&ab_channel=PeladoNerd)
+[Best practises for Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)

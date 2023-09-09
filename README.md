@@ -3,19 +3,16 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-
    1. [What is Docker?](#what-is-docker)
    2. [Why Use Docker?](#why-use-docker)
    3. [Key Concepts](#key-concepts)
    4. [Docker vs. Virtual Machines (VMs)](#docker-vs-virtual-machines-vms)
-   5. [Prerequisites](#prerequisites)
-   6. [Environment Setup](#environment-setup)
-   7. [Contextualization of the application](#contextualization-of-the-application)
-   8. [Deploying Frontend](#deploying-frontend)
-   9. [Deploying Backend and Database](#deploying-backend-and-database)
-   10. [Adittional Resources](#adittional-resources)
-
 2. [Prerequisites](#prerequisites)
+3. [Environment Setup](#environment-setup)
+4. [Contextualization of the application](#contextualization-of-the-application)
+5. [Deploying Frontend](#deploying-frontend)
+6. [Deploying Backend and Database](#deploying-backend-and-database)
+7. [Adittional Resources](#adittional-resources)
 
 I hope this table of contents helps you organize your README file.
 
